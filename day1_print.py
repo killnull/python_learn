@@ -1,0 +1,7 @@
+print("=================")
+print("line1",end=",")
+print("line2",end="\n")
+print("=================")
+print("name is {nn},age is {ag}".format(nn="name",ag="age"))
+print("=================")
+print("name is {},age is {}".format("name","age"))
