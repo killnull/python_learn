@@ -1,0 +1,4 @@
+w+1 --> write
+w+2 --> write
+a+1 --> write
+a+2 --> write
